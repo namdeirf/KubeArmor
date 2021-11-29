@@ -60,6 +60,15 @@ If you want to make a contribution, please refer to the following documents too.
 2. [Development Guide](contribution/development_guide.md)
 3. [Technical Roadmap](contribution/technical_roadmap.md)
 
+Versioning
+
+KubeArmor uses [Semantic Versioning](https://semver.org/) and the latest versions can be found on our repo [here](https://github.com/kubearmor/KubeArmor/releases). Each release is given a version number MAJOR.MINOR.PATCH, increment the:
+
+    MAJOR version when you make incompatible API changes,
+    MINOR version when you add functionality in a backwards compatible manner, and
+    PATCH version when you make backwards compatible bug fixes.
+
+
 ## Community
 
 ### Biweekly Meetup
